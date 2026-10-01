@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/poolsideai/pool/commit/fcabc59ff67810ecec5429ec9d45fa1dda6c1136",
       "git:hexsha": "fcabc59ff67810ecec5429ec9d45fa1dda6c1136",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     },
     {
