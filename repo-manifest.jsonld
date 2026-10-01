@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/poolsideai/pool/commit/fcabc59ff67810ecec5429ec9d45fa1dda6c1136",
       "git:hexsha": "fcabc59ff67810ecec5429ec9d45fa1dda6c1136",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-01T07:32:41.907933+00:00"
     },
     {
       "@id": "https://repolex.ai/r/poolsideai/pool/commit/31f68f94e73e7c33149edd19ea7022e2dff5ebf2",
